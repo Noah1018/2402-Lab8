@@ -1,0 +1,10 @@
+City,Month,AvgTemp,Rainfall,SunshineHours
+Calgary,Jan,-5.2,12,130
+Calgary,Feb,-2.0,9,145
+Calgary,Mar,2.5,18,160
+Vancouver,Jan,5.0,110,80
+Vancouver,Feb,6.2,95,90
+Vancouver,Mar,8.1,120,100
+Toronto,Jan,-3.5,50,100
+Toronto,Feb,-1.0,40,120
+Toronto,Mar,4.5,60,150
